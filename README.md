@@ -29,9 +29,9 @@ QuantohlplexOS is a custom Debian-based Linux operating system that combines the
 
 - [x] Base system (live-build)
 - [x] Neofetch identity
-- [ ] Custom KDE theme
-- [ ] Custom apps (C++ Qt)
-- [ ] ISO release
+- [x] Custom KDE theme
+- [x] Custom apps (C++ Qt)
+- [x] ISO release
 
 ---
 
